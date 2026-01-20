@@ -3,7 +3,7 @@
 
 Full Stack Developer with a Master’s degree in Computer Science and hands-on experience building scalable, cloud-ready web applications using Java, Spring Boot, and modern frontend frameworks.
 
-- 👨‍💻 **Projects:** [Click here to view my work](https://github.com/sravankumarvelicheti)
+[Click here to view my work](https://github.com/sravankumarvelicheti)
 
 ### Connect with me:
 <table>
