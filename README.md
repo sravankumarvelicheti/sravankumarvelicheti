@@ -5,6 +5,8 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
 - 👨‍💻 **Projects:** [Click here to view my work](https://github.com/sravankumarvelicheti)
 - 📫 **Email:** svelicheti9@gmail.com
 - ### Connect with me:
+
+- ### Languages and Tools:
 <a href="https://www.linkedin.com/in/sravan-kumar-v-9826bb1a2/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 <p align="center">
@@ -57,6 +59,13 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   </a>
 
+</p>
+
+### Certifications
+<p>
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
+    <img src="https://images.credly.com/images/684e6e2e-5b69-47b4-8c51-3f72b2f4c3b3/aws-certified-cloud-practitioner.png" width="130" alt="AWS Certified Cloud Practitioner"/>
+  </a>
 </p>
 
 
