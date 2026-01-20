@@ -9,7 +9,7 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+      <a href="https://www.linkedin.com/in/sravan-kumar-v-9826bb1a2/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
       </a>
     </td>
