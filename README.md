@@ -61,19 +61,22 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
 
 </p>
 
+## Certifications
 <p align="center">
-  <!-- Databricks Spark Developer Associate -->
-  <a href="https://www.credential.net/" target="_blank" title="Databricks Spark Developer Associate">
-    <img src="https://images.credly.com/images/8c9e28d8-0b4b-4a34-98e4-4e0a2c7d9f45/databricks-spark-developer-associate.png" width="160"/>
+
+  <a href="https://https://www.credly.com/badges/c1fe952f-2e1c-4ce6-82a2-cb0ed41510c4/public_url/" target="_blank">
+    <img src="aws.png" width="160"/>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- AWS Certified Cloud Practitioner -->
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank" title="AWS Certified Cloud Practitioner">
-    <img src="https://images.credly.com/images/684e6e2e-5b69-47b4-8c51-3f72b2f4c3b3/aws-certified-cloud-practitioner.png" width="160"/>
+  <a href="https://https://www.credly.com/badges/e0574fe5-697e-41f4-b47d-ab92d831ffb7/public_url
+/certifications/index.html" target="_blank">
+    <img src="Cisco.png" width="160"/>
   </a>
+
 </p>
+
 
 
 ### What I Build
