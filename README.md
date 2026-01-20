@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" />
+</p>
+
 <h2 align="center">Hi, I’m Sravan Kumar Velicheti 👋</h2>
 
 
@@ -12,14 +16,19 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
       <a href="https://www.linkedin.com/in/sravan-kumar-v-9826bb1a2/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
       </a>
+      <br/>
+      <sub>LinkedIn</sub>
     </td>
     <td align="center">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=svelicheti9@gmail.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="48"/>
+        <img src=".png" width="48"/>
       </a>
+      <br/>
+      <sub>svelicheti9@gmail.com</sub>
     </td>
   </tr>
 </table>
+
 
 
 
