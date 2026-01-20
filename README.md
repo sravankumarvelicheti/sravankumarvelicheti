@@ -1,14 +1,28 @@
-## Hi, I’m Sravan Kumar Velicheti👋
+<h2 align="center">Hi, I’m Sravan Kumar Velicheti 👋</h2>
+
 
 Full Stack Developer with a Master’s degree in Computer Science and hands-on experience building scalable, cloud-ready web applications using Java, Spring Boot, and modern frontend frameworks.
 
 - 👨‍💻 **Projects:** [Click here to view my work](https://github.com/sravankumarvelicheti)
-- 📫 **Email:** svelicheti9@gmail.com
-- ### Connect with me:
 
-- ### Languages and Tools:
-<a href="https://www.linkedin.com/in/sravan-kumar-v-9826bb1a2/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+### Connect with me:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:svelicheti9@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+### Languages and Tools:
 <p align="center">
 
   <a href="https://www.java.com" target="_blank">
@@ -62,20 +76,24 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
 </p>
 
 ## Certifications
-<p align="center">
+<table align="center">
+  <tr>
+    <!-- AWS LEFT -->
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/c1fe952f-2e1c-4ce6-82a2-cb0ed41510c4/public_url" target="_blank">
+        <img src="aws.png" width="160"/>
+      </a>
+    </td>
+    <!-- CISCO RIGHT -->
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/e0574fe5-697e-41f4-b47d-ab92d831ffb7/public_url" target="_blank">
+        <img src="Cisco.png" width="160"/>
+      </a>
+    </td>
 
-  <a href="https://https://www.credly.com/badges/c1fe952f-2e1c-4ce6-82a2-cb0ed41510c4/public_url/" target="_blank">
-    <img src="aws.png" width="160"/>
-  </a>
+  </tr>
+</table>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://https://www.credly.com/badges/e0574fe5-697e-41f4-b47d-ab92d831ffb7/public_url
-/certifications/index.html" target="_blank">
-    <img src="Cisco.png" width="160"/>
-  </a>
-
-</p>
 
 
 
