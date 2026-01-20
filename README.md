@@ -6,7 +6,7 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
 [Click here to view my work](https://github.com/sravankumarvelicheti)
 
 ### Connect with me:
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/sravan-kumar-v-9826bb1a2/" target="_blank">
@@ -14,12 +14,13 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
       </a>
     </td>
     <td align="center">
-      <a href="mailto:svelicheti9@gmail.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"/>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=svelicheti9@gmail.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="48"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ### Languages and Tools:
