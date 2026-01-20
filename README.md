@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="banner.png" />
+  <img src="banner.jpeg" />
 </p>
-
-<h2 align="center">Hi, I’m Sravan Kumar Velicheti 👋</h2>
-
 
 Full Stack Developer with a Master’s degree in Computer Science and hands-on experience building scalable, cloud-ready web applications using Java, Spring Boot, and modern frontend frameworks.
 
@@ -21,7 +18,7 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
     </td>
     <td align="center">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=svelicheti9@gmail.com" target="_blank">
-        <img src=".png" width="48"/>
+        <img src="mail.png" width="48"/>
       </a>
       <br/>
       <sub>svelicheti9@gmail.com</sub>
