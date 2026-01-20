@@ -7,22 +7,58 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
 - ### Connect with me:
 <a href="https://www.linkedin.com/in/sravan-kumar-v-9826bb1a2/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-### Languages and Tools:
 <p align="center">
-  <img src="assets/java.png" width="50"/>
-  <img src="assets/spring.png" width="50"/>
-  <img src="assets/react.png" width="50"/>
-  <img src="assets/angular.png" width="50"/>
-  <img src="assets/javascript.png" width="50"/>
-  <img src="assets/typescript.png" width="50"/>
-  <img src="assets/aws.png" width="50"/>
-  <img src="assets/docker.png" width="50"/>
-  <img src="assets/kubernetes.png" width="50"/>
-  <img src="assets/mysql.png" width="50"/>
-  <img src="assets/mongodb.png" width="50"/>
-  <img src="assets/git.png" width="50"/>
+
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  </a>
+
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+  </a>
+
+  <a href="https://react.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  </a>
+
+  <a href="https://angular.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/>
+  </a>
+
+  <a href="https://www.javascript.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  </a>
+
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+  </a>
+
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  </a>
+
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+  </a>
+
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  </a>
+
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  </a>
+
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  </a>
+
 </p>
+
 
 ### What I Build
 - Scalable backend services and REST APIs
