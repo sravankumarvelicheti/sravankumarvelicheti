@@ -61,10 +61,17 @@ Full Stack Developer with a Master’s degree in Computer Science and hands-on e
 
 </p>
 
-### Certifications
-<p>
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
-    <img src="https://images.credly.com/images/684e6e2e-5b69-47b4-8c51-3f72b2f4c3b3/aws-certified-cloud-practitioner.png" width="130" alt="AWS Certified Cloud Practitioner"/>
+<p align="center">
+  <!-- Databricks Spark Developer Associate -->
+  <a href="https://www.credential.net/" target="_blank" title="Databricks Spark Developer Associate">
+    <img src="https://images.credly.com/images/8c9e28d8-0b4b-4a34-98e4-4e0a2c7d9f45/databricks-spark-developer-associate.png" width="160"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- AWS Certified Cloud Practitioner -->
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank" title="AWS Certified Cloud Practitioner">
+    <img src="https://images.credly.com/images/684e6e2e-5b69-47b4-8c51-3f72b2f4c3b3/aws-certified-cloud-practitioner.png" width="160"/>
   </a>
 </p>
 
